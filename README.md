@@ -81,11 +81,11 @@
   </a>
 
   <a target="_blank" href="https://gitee.com/xuxiaowei-com-cn/spring-boot-starter-redis">
-    <img alt="Redis 序列化/反序列化 组件 stars" src="https://gitee.com/xuxiaowei-com-cn/spring-boot-starter-redis/badge/star.svg?theme=blue">
+    <img alt="码云Gitee stars" src="https://gitee.com/xuxiaowei-com-cn/spring-boot-starter-redis/badge/star.svg?theme=blue">
   </a>
 
   <a target="_blank" href="https://gitee.com/xuxiaowei-com-cn/spring-boot-starter-redis">
-    <img alt="Redis 序列化/反序列化 组件 forks" src="https://gitee.com/xuxiaowei-com-cn/spring-boot-starter-redis/badge/fork.svg?theme=blue">
+    <img alt="码云Gitee forks" src="https://gitee.com/xuxiaowei-com-cn/spring-boot-starter-redis/badge/fork.svg?theme=blue">
   </a>
 
   <a target="_blank" href="https://gitlab.com/xuxiaowei-com-cn/spring-boot-starter-redis">
